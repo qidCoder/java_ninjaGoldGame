@@ -5,7 +5,7 @@ Create a mini-game that helps a ninja make some money! When you start the game, 
 
 You should only need 2 methods to complete this task. Hint: Use hidden inputs to differentiate the forms.
 
-1[javaNinjaGold](assignment.png)
+![javaNinjaGold](assignment.png)
 
 **Topics:**
 
